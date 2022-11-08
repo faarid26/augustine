@@ -1,0 +1,254 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: sans-serif;
+}
+.navbar {
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    height: 83px;
+    padding-left: 155px;
+    padding-right: 155px;
+}
+.menu ul {
+    display: flex;
+    gap: 40px;
+}
+.menu ul li a {
+    color: black;
+}
+.logo {
+    font-size: 16px;
+}
+.shop-now {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 70px;
+    background-color: black;
+}
+.shop-now h4 {
+    color: #fff;
+}
+.shop-now a {
+    color: #fff;
+}
+.image-text {
+    display: flex;
+    background-color: #501C1C;
+    padding-left: 170px;
+    padding-right: 155px;
+    height: 596px;
+    gap: 112px;
+}
+.image img {
+    width: 520px;
+}
+.text {
+    padding-top: 210px;
+}
+.text h1 {
+    font-size: 48px;
+    color: #fff;
+}
+.text p {
+    padding-top: 22px;
+    color: #fff;
+    font-size: 19px;
+}
+.text button {
+    background-color: #fff;
+    color: black;
+    padding: 16px 32px;
+    opacity: 2.6;
+    transition: 0.3s;
+    margin-top: 25px;
+}
+.text button:hover {
+    background-color: black;
+    color: #fff;
+}
+.collection {
+    display: flex;
+    padding-left: 170px;
+    padding-right: 155px;
+    height: 705px;
+    background-color: #fff;
+    gap: 40px;
+    padding-top: 107px;
+}
+.image2 {
+    display: flex;
+    gap: 10px;
+}
+.image2 img {
+    width: 270px;
+}
+.img1 img {
+    height: 484px;
+}
+.img3 img {
+    height: 484px;
+}
+.texts {
+    padding-top: 150px;
+}
+.texts h1 {
+    font-size: 37px;
+}
+.texts p {
+    padding-top: 37px;
+    font-size: 16px;
+}
+.texts button {
+    background-color: black;
+    color: #fff;
+    padding: 16px 32px;
+    opacity: 1.6;
+    transition: 0.3s;
+    margin-top: 40px;
+}
+.texts button:hover {
+    background-color: #545353;
+    color: #fff;
+}
+.life {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 385px;
+    background-color: #501C1C;
+}
+.life h1 {
+    font-size: 41px;
+    color: #fff;
+}
+.clothing {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    gap: 20px;
+    height: 782px;
+    padding-left: 170px;
+    padding-right: 170px;
+}
+.clothing img {
+    width: 620px;
+}
+.img-txt1 {
+    padding-top: 20px;
+}
+.img-txt1 h2 {
+    display: inline-block;
+    font-size: 28px;
+}
+.img-txt1 p {
+    padding-top: 20px;
+}
+.img-txt1 button {
+    background-color: black;
+    color: white;
+    padding: 16px 42px;
+    opacity: 1.6;
+    transition: 0.3s;
+    margin-top: 40px;
+}
+.img-txt1 button:hover {
+    background-color: #545353;
+    color: #fff;
+}
+.img-txt2 {
+    padding-top: 20px;
+}
+.img-txt2 p {
+    padding-top: 20px;
+}
+.img-txt2 button {
+    background-color: black;
+    color: #fff;
+    padding: 16px 42px;
+    opacity: 1.6;
+    transition: 0.3s;
+    margin-top: 40px;
+}
+.img-txt2 button:hover {
+    background-color: #545353;
+    color: #fff;
+}
+.join {
+    padding-left: 190px;
+    padding-right: 150px;
+    padding-top: 105px;
+    width: 1519px;
+    height: 555px;
+    background-image:url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/augustinelitek7jiv/img-m57zVv6WWeTX3eep.png);
+}
+.join h2 {
+    font-size: 40px;
+    color: #fff;
+}
+.join h1 {
+    font-size: 55px;
+    color: #fff;
+}
+.email input {
+    padding: 14px 135px;
+    margin-top: 35px;
+}
+.button button {
+    background-color: #fff;
+    color: black;
+    padding: 16px 32px;
+    opacity: 1.6;
+    transition: 0.4s;
+    margin-top: 20px;
+}
+.button button:hover {
+    background-color: #545353;
+    color: #fff;
+}
+.footer {
+    display: flex;
+    padding-top: 110px;
+    padding-left: 190px;
+    height: 440px;
+    gap: 650px;
+}
+.link ul {
+    padding-top: 22px;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.link a {
+    color: black;
+}
+.help h2 {
+    font-size: 30px;
+}
+.social ul {
+    display: flex;
+    gap: 20px;
+}
+.social ul li a {
+    color: black;
+}
+.menu1 ul li a {
+    display: flex;
+    overflow:scroll;
+    color: black;
+    text-decoration: underline;
+    
+}
+.social ul{
+    display: flex;
+    gap: 20px;
+    padding-top: 40px;
+}
